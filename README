@@ -17,3 +17,9 @@ $ git add <NOME ARQUIVO>
 ```
 $ git commit -m "<DESCRICAO DAS MUDANCAS>"
 ```
+
+Para ver como está o repositório:
+```
+$ git status
+```
+
