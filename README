@@ -23,3 +23,8 @@ Para ver como está o repositório:
 $ git status
 ```
 
+Para ver os commits anteriores:
+```
+$ git log
+```
+
