@@ -13,3 +13,7 @@ Para adicionar arquivos na fila de registro do Git:
 ```
 $ git add <NOME ARQUIVO>
 ```
+
+```
+$ git commit -m "<DESCRICAO DAS MUDANCAS>"
+```
